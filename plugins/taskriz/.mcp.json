@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "taskriz": { "type": "http", "url": "https://dev.taskriz.com/mcp" }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "taskriz",
+  "description": "Taskriz plugins for Claude Code.",
+  "owner": {
+    "name": "Appeggio"
+  },
+  "plugins": [
+    {
+      "name": "taskriz",
+      "source": "./plugins/taskriz",
+      "description": "Send a person a request through Taskriz, an interface they answer in the app, browser or by email, and read their answer."
+    }
+  ]
+}
