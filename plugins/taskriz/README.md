@@ -22,8 +22,9 @@ the taskriz server and complete the sign-in in your browser.
 
 ## What it sends, and where
 
-The plugin runs no code on your machine. Everything goes to the Taskriz MCP server at
-`https://www.taskriz.com/mcp`, over HTTPS, signed in with OAuth:
+The plugin runs no code on your machine. Everything goes to Taskriz, over HTTPS: to its MCP
+server at `https://www.taskriz.com/mcp`, signed in with OAuth, and for a large file, to its file
+storage:
 
 - the requests Claude writes, and who they are for (email addresses or people already
   paired with your Agent);
