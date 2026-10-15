@@ -1,10 +1,11 @@
 {
   "name": "taskriz",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Send a person a request through Taskriz, an interface they answer in the app, browser or by email, and read their answer.",
   "author": {
     "name": "Appeggio"
   },
   "homepage": "https://www.taskriz.com",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.taskriz.com/privacy/"
 }
