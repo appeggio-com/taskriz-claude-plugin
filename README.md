@@ -26,5 +26,5 @@ You need a Taskriz account.
 
 - `.claude-plugin/marketplace.json`: the marketplace, listing one plugin.
 - `plugins/taskriz/.claude-plugin/plugin.json`: the plugin.
-- `plugins/taskriz/.mcp.json`: the Taskriz MCP server (currently `https://dev.taskriz.com/mcp`).
+- `plugins/taskriz/.mcp.json`: the Taskriz MCP server (`https://www.taskriz.com/mcp`).
 - `plugins/taskriz/skills/taskriz/SKILL.md`: when and how Claude uses it.
