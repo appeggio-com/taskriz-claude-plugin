@@ -27,7 +27,9 @@ The plugin runs no code on your machine. Everything goes to the Taskriz MCP serv
 
 - the requests Claude writes, and who they are for (email addresses or people already
   paired with your Agent);
-- files you ask Claude to attach to a request;
+- files you ask Claude to attach to a request. A large local file is uploaded with a one-time
+  upload link the Taskriz server gives Claude, which points at Taskriz's own file storage on
+  Amazon S3 (`amazonaws.com`);
 - the replies Claude reads back.
 
 Taskriz delivers each request to the people it is for. How Taskriz handles this data is in the

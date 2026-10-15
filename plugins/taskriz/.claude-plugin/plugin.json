@@ -1,6 +1,6 @@
 {
   "name": "taskriz",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Send a person a request through Taskriz, an interface they answer in the app, browser or by email, and read their answer.",
   "author": {
     "name": "Appeggio"
