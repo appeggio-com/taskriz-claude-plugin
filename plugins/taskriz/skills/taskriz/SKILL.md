@@ -1,6 +1,6 @@
 ---
 name: taskriz
-description: Ask a person for something through Taskriz and act on their answer: an approval, a choice, details, a file or photo, or sending them something to review. Use when the user wants to ask, check with, collect from or get sign-off from someone else (by name or email), or to see what someone has answered.
+description: "Ask a person for something through Taskriz and act on their answer: an approval, a choice, details, a file or photo, or sending them something to review. Use when the user wants to ask, check with, collect from or get sign-off from someone else (by name or email), or to see what someone has answered."
 ---
 
 # Asking a person through Taskriz

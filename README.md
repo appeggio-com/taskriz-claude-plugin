@@ -9,10 +9,7 @@ reply loop.
 
 ## Install
 
-This repository is a Claude Code plugin marketplace. You need read access to it, and git
-credentials that work without a prompt (for example `gh auth login`, then `gh auth setup-git`).
-
-In Claude Code:
+This repository is a Claude Code plugin marketplace. In Claude Code:
 
 ```
 /plugin marketplace add appeggio-com/taskriz-claude-plugin
@@ -26,5 +23,6 @@ You need a Taskriz account.
 
 - `.claude-plugin/marketplace.json`: the marketplace, listing one plugin.
 - `plugins/taskriz/.claude-plugin/plugin.json`: the plugin.
+- `plugins/taskriz/README.md`: what the plugin does, and what it sends where.
 - `plugins/taskriz/.mcp.json`: the Taskriz MCP server (`https://www.taskriz.com/mcp`).
 - `plugins/taskriz/skills/taskriz/SKILL.md`: when and how Claude uses it.
